@@ -1,0 +1,118 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 5656,
+      "max": [
+        0.8660253882408142,
+        0.5,
+        0.75
+      ],
+      "min": [
+        -0.8660253882408142,
+        -2.5,
+        -0.75
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 5656,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 19680,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 180992,
+      "byteStride": 32,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 78720,
+      "byteOffset": 180992,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 259712,
+      "uri": "V0R_sroub.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "XID_ChromePolishedBlue_184E0E22973C4769A1C745770DF972A9_shader",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.44520100951194763,
+          0.4735319912433624,
+          0.838798999786377,
+          1.0
+        ],
+        "roughnessFactor": 0.10000000149011612
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Těleso1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "matrix": [
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.01,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "mesh": 0,
+      "name": "Těleso1"
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
